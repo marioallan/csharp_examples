@@ -1,0 +1,8 @@
+# Ignorando arquivos que sao gerados apos simulacao do projeto que nao precisam ser publicados no servidor remoto
+
+# Arquivos
+
+# Pastas
+bin/
+obj/
+

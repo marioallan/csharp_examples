@@ -1,0 +1,16 @@
+C:\Users\Mario\donet_exemplo\imprimi\bin\Debug\net5.0\imprimi.exe
+C:\Users\Mario\donet_exemplo\imprimi\bin\Debug\net5.0\imprimi.deps.json
+C:\Users\Mario\donet_exemplo\imprimi\bin\Debug\net5.0\imprimi.runtimeconfig.json
+C:\Users\Mario\donet_exemplo\imprimi\bin\Debug\net5.0\imprimi.runtimeconfig.dev.json
+C:\Users\Mario\donet_exemplo\imprimi\bin\Debug\net5.0\imprimi.dll
+C:\Users\Mario\donet_exemplo\imprimi\bin\Debug\net5.0\ref\imprimi.dll
+C:\Users\Mario\donet_exemplo\imprimi\bin\Debug\net5.0\imprimi.pdb
+C:\Users\Mario\donet_exemplo\imprimi\obj\Debug\net5.0\imprimi.csprojAssemblyReference.cache
+C:\Users\Mario\donet_exemplo\imprimi\obj\Debug\net5.0\imprimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\donet_exemplo\imprimi\obj\Debug\net5.0\imprimi.AssemblyInfoInputs.cache
+C:\Users\Mario\donet_exemplo\imprimi\obj\Debug\net5.0\imprimi.AssemblyInfo.cs
+C:\Users\Mario\donet_exemplo\imprimi\obj\Debug\net5.0\imprimi.csproj.CoreCompileInputs.cache
+C:\Users\Mario\donet_exemplo\imprimi\obj\Debug\net5.0\imprimi.dll
+C:\Users\Mario\donet_exemplo\imprimi\obj\Debug\net5.0\ref\imprimi.dll
+C:\Users\Mario\donet_exemplo\imprimi\obj\Debug\net5.0\imprimi.pdb
+C:\Users\Mario\donet_exemplo\imprimi\obj\Debug\net5.0\imprimi.genruntimeconfig.cache
